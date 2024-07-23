@@ -112,7 +112,7 @@ fun TopAppBarHero(){
         ) {
             Text(
                 text = stringResource(id = R.string.app_tittle),
-                style = MaterialTheme.typography.headlineLarge,
+                style = MaterialTheme.typography.displayLarge,
                 onTextLayout = {}
             )
         }
